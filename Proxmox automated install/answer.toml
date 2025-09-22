@@ -18,7 +18,7 @@ root-ssh-keys = [
 [network]
 source = "from-answer" #use static details below
 cidr = "104.37.174.28/22"
-dns = "1.1.1.1,1.0.0.1"
+dns = "1.1.1.1"
 gateway = "104.37.172.1"
 filter.ADDRESS = "24:6e:96:3f:b6:ce"
 
